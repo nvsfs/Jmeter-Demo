@@ -30,8 +30,8 @@
           <boolProp name="autocommit">true</boolProp>
           <stringProp name="checkQuery">Select 1</stringProp>
           <stringProp name="connectionAge">5000</stringProp>
-          <stringProp name="dataSource">cin</stringProp>
-          <stringProp name="dbUrl">jdbc:mysql://localhost:3306/cin</stringProp>
+          <stringProp name="dataSource">chinook</stringProp>
+          <stringProp name="dbUrl">jdbc:mysql://localhost:3306/chinook</stringProp>
           <stringProp name="driver">com.mysql.jdbc.Driver</stringProp>
           <boolProp name="keepAlive">true</boolProp>
           <stringProp name="password">abc@123</stringProp>
@@ -43,8 +43,8 @@
         </JDBCDataSource>
         <hashTree/>
         <JDBCSampler guiclass="TestBeanGUI" testclass="JDBCSampler" testname="Requisição JDBC - Tabela nome" enabled="true">
-          <stringProp name="dataSource">cin</stringProp>
-          <stringProp name="query">select * from tb_name;</stringProp>
+          <stringProp name="dataSource">chinook</stringProp>
+          <stringProp name="query">select * from Customer;</stringProp>
           <stringProp name="queryArguments"></stringProp>
           <stringProp name="queryArgumentsTypes"></stringProp>
           <stringProp name="queryTimeout"></stringProp>
