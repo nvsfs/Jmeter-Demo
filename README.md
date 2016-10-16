@@ -1,5 +1,5 @@
 # Jmeter-Demo
-Projeto da cadeira de testes 2016.2
+*Projeto da cadeira de testes 2016.2*
 
 Nesse tutorial vamos demonstrar diversos casos de uso de uma das ferramentas de testes de performance e carga mais conhecidos, o Jmeter!
 
@@ -12,20 +12,20 @@ Algumas features são:
 Capacidade de testes de carregar e de performance em diferentes tipode de servidores / protocolos:
 
 * Web - HTTP, HTTPS
-* SOAP / DESCANSO
+* SOAP / REST
 * FTP
 * Banco de dados via JDBC
 * LDAP
 * Middleware orientado a mensagem (MOM) via JMS
 * Mail - SMTP (S), POP3 (S) e IMAP (S)
-* Native comandos ou scripts shell
+* Native commands ou scripts shell
 * TCP
 
 ### Pre requisitos
 
 A seguir os pré requisitos para rodar os testes do tutorial com o JMeter:
 
-* A fully compliant Java 7 (or later) Runtime Environment is required for Apache JMeter to execute.
+* Java 7 (mínimo) Runtime Environment.
 * JDBC
 
 ## Instalando
@@ -65,5 +65,9 @@ Para ter acesso a cada case, vá para nossa wiki.
 *
 *
 
-#Links importantes
-
+##Links importantes
+* [Site oficial - Apache Jmeter](jmeter.apache.org)
+* [Destilando Jmeter](http://www.bugbang.com.br/destilando-jmeter-i-introducao-e-conceitos/)
+* [Tutorials on Point - Jmeter](https://www.tutorialspoint.com/jmeter/jmeter_tutorial.pdf)
+* [Jmeter tutorial Series](http://www.softwaretestingclass.com/learn-jmeter-performance-testing-jmeter-tutorial-series/)
+* [Ultimate Resoures List](https://www.blazemeter.com/blog/ultimate-jmeter-resource-list)
