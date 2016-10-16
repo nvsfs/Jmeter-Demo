@@ -5,7 +5,7 @@ Nesse tutorial vamos demonstrar diversos casos de uso de uma das ferramentas de 
 
 ###O que é o Jmeter?
 
-é uma aplicação Java projetado para testar e medir a Performance de aplicações web. Pode ser utilizado como um servidor de benchmarck bem como gerador de carga multiclient.
+é uma aplicação Java projetada para testar e medir a Performance de aplicações web. Pode ser utilizado como um servidor de benchmarck bem como gerador de carga multiclient.
 
 Algumas features são:
 
