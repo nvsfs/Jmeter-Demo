@@ -66,7 +66,7 @@ Para ter acesso a cada case, vá para nossa wiki.
 
 ## Presentation
 
-[Google Presentations](https://docs.google.com/a/cin.ufpe.br/presentation/d/1f-B6QENKQKUV1TnCarr-bPyobA0iBVp3x7z-fjptgZM/edit?usp=sharing)
+[Google Presentation - Jmeter](https://docs.google.com/a/cin.ufpe.br/presentation/d/1f-B6QENKQKUV1TnCarr-bPyobA0iBVp3x7z-fjptgZM/edit?usp=sharing)
 
 ##Links importantes
 * [Site oficial - Apache Jmeter](jmeter.apache.org)
